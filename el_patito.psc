@@ -39,3 +39,4 @@ Algoritmo Promedio
 	Escribir "Programa finalizado."
 
 FinAlgoritmo
+
